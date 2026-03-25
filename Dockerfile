@@ -1,2 +1,2 @@
 # 镜像
-FROM pytorch/pytorch:2.3.1-cuda12.1-cudnn8-devel
+FROM vllm/vllm-openai:v0.18.1rc0
